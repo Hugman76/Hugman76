@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Hugman76
+- 👀 I’m interested in pop culture and exploring the world
+- 🌱 I’m currently learning Java, HTML/CSS, PSQL, Shell, C
