@@ -1,5 +1,23 @@
-- 👋 Hi, I’m Hugo, a french sophomore in computer science
-- 👀 I’m interested in game design and exploring the world
-- 🌱 I’m currently learning Java, PSQL, Shell, C, HTML/CSS, React, Node.js, Next.js
-- 🌙 I am the founder and unique owner of the [@Dawn Team](https://github.com/DawnTeamMC)
-  - I create and design open-source Minecraft modifications for the game's community
+# Presentation 👋
+I’m Hugo, a french sophomore in computer science located in France.
+I’m interested in game design and exploring the world. 👀
+
+# My projects ⏩
+I am the founder and unique owner of the [@Dawn Team](https://github.com/DawnTeamMC). 🌙
+
+The Dawn Team produces Minecraft: Java Edition mods (modifications) for the game's community.  
+I personally develop all the mods there, and the rest of the team is mostly composed of translators.
+
+# Technologies ⌨️
+Since 2018:
+- ⭐ Java
+- ⭐ HTML/CSS
+
+Since 2021:
+- PSQL
+- C
+- Shell/Bash
+
+Since 2022:
+- Next.js -> React -> Node.js -> TypeScript
+- PHP
