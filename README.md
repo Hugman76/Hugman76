@@ -20,5 +20,11 @@ Since 2021:
 - Shell/Bash
 
 Since 2022:
-- Next.js -> React -> Node.js -> TypeScript
+- React
+- TypeScript
 - PHP
+
+Since 2023:
+- ⭐ Symfony
+- ⭐ Vue.js
+- Python
