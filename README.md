@@ -1,6 +1,6 @@
 # 👋 Presentation
-I’m Hugo, a french sophomore in computer science located in France.
-I’m interested in game design and exploring the world. 👀
+I’m Hugo, a french Master's student in computer science.
+I’m interested in science, game culture. I also enjoy exploring the world through photography and unique experiences. 👀
 
 # ⏩ My work (Minecraft-related)
 I am experienced in developing Minecraft: Java Edition mods (modifications).
