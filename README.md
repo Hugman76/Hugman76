@@ -2,29 +2,34 @@
 I’m Hugo, a french sophomore in computer science located in France.
 I’m interested in game design and exploring the world. 👀
 
-# ⏩ My projects
-## 🌙 Dawn Team
-I am the founder and unique owner of the [Dawn Team](https://github.com/DawnTeamMC). 
+# ⏩ My work (Minecraft-related)
+I am experienced in developing Minecraft: Java Edition mods (modifications).
+Most of this is open-source, be sure to check out my profile's organizations for more details!
 
-The Dawn Team produces Minecraft: Java Edition mods (modifications) for the game's community.  
-I personally develop all the mods there, and the rest of the team is mostly composed of translators.
+## 🌙 Dawn Team
+Proud founder and unique owner of the [Dawn Team](https://github.com/DawnTeamMC). 
+
+The Dawn Team produces Minecraft: Java Edition mods for the game's community.
+I personally develop all the mods there, and the rest of the team is mostly composed of translators and sound/texture artists!
+
+## Nucleoid
+Active contributor for [Nucleoid](https://nucleoid.xyz/)'s open-sourced minigames and APIs.
+
+## LoveTropics
+Recently contributor in programming stuff around the [LoveTropics](https://lovetropics.org/) 2025 event.
 
 # ⌨️ Technologies
-Since 2018:
-- ⭐ Java
-- ⭐ HTML/CSS
+I've been learning a lot of things since 2017! Through personal, school and professional works, these include:
 
-Since 2021:
+- ⭐ Java
+- ⭐ PHP
+  - ⭐ Symfony
+- ⭐ HTML/CSS
+- ⭐ JavaScript
+  - ⭐ Vue.js
+  - TypeScript
+  - React 
 - PSQL
 - C
 - Shell/Bash
-
-Since 2022:
-- React
-- TypeScript
-- PHP
-
-Since 2023:
-- ⭐ Symfony
-- ⭐ Vue.js
 - Python
